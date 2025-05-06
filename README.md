@@ -1,7 +1,7 @@
 # Data-Sentiment-Analysis
 
 This project implements a machine learning pipeline for analyzing customer sentiment and emotions regarding sustainable products. The system achieves 87% accuracy in sentiment classification using advanced NLP techniques.
-This pipeline serves as a demonstration for a PhD research project on sustainable product sentiment analysis.
+This pipeline serves as a demonstration for a PhD research project on sustainable product sentiment analysis. The prediction model is not presented in the repository as research group holds in fundamental rights. 
 
 ## Data Collection & Storage
 The pipeline extracts data from: </br>
